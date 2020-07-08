@@ -1,0 +1,35 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas",
+            "color": "blue"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars",
+            "color": "red"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas",
+            "color": "green"
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icon" : "donut_large",
+            "texto": "Animated Container",
+            "color": "purple"
+        },
+        {
+            "ruta" : "inputs",
+            "icon" : "input",
+            "texto": "inputs",
+            "color": "orange"
+        }
+    ]
+}
